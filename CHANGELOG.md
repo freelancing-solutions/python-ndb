@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-ndb/#history
 
+### [1.8.1](https://www.github.com/googleapis/python-ndb/compare/v1.8.0...v1.8.1) (2021-04-19)
+
+
+### Bug Fixes
+
+* correctly decode falsy values in legacy protocol buffers ([#628](https://www.github.com/googleapis/python-ndb/issues/628)) ([69a9f63](https://www.github.com/googleapis/python-ndb/commit/69a9f63be89ca50bbf0a42d0565a9f1fdcf6d143)), closes [#625](https://www.github.com/googleapis/python-ndb/issues/625)
+
 ## [1.8.0](https://www.github.com/googleapis/python-ndb/compare/v1.7.3...v1.8.0) (2021-04-06)
 
 
